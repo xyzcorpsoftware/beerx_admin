@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b2edbfa.css",
-    "main.js": "/static/js/main.59d17882.js",
-    "static/js/453.3437140d.chunk.js": "/static/js/453.3437140d.chunk.js",
-    "static/media/splash.png": "/static/media/splash.d7b4d5436bd39fb844c6.png",
-    "index.html": "/index.html",
-    "main.7b2edbfa.css.map": "/static/css/main.7b2edbfa.css.map",
-    "main.59d17882.js.map": "/static/js/main.59d17882.js.map",
-    "453.3437140d.chunk.js.map": "/static/js/453.3437140d.chunk.js.map"
+    "main.css": "/beerx_admin/static/css/main.7b2edbfa.css",
+    "main.js": "/beerx_admin/static/js/main.e11cf991.js",
+    "static/js/453.3437140d.chunk.js": "/beerx_admin/static/js/453.3437140d.chunk.js",
+    "static/media/splash.png": "/beerx_admin/static/media/splash.d7b4d5436bd39fb844c6.png",
+    "index.html": "/beerx_admin/index.html",
+    "main.7b2edbfa.css.map": "/beerx_admin/static/css/main.7b2edbfa.css.map",
+    "main.e11cf991.js.map": "/beerx_admin/static/js/main.e11cf991.js.map",
+    "453.3437140d.chunk.js.map": "/beerx_admin/static/js/453.3437140d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b2edbfa.css",
-    "static/js/main.59d17882.js"
+    "static/js/main.e11cf991.js"
   ]
 }
